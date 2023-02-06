@@ -1,0 +1,53 @@
+/* Handed CSS code */
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+/* Custom CSS Starts */
+:root {
+  --White: hsl(0, 0%, 100%);
+  --Light-gray: hsl(212 45% 80%);
+  --Grayish-blue: hsl(220, 15%, 55%);
+  --Dark-blue: hsl(218 44% 22% / 0.3);
+}
+
+body {
+  background-color: var(--Dark-blue);
+  font-family: 'outfit';
+  font-weight: --bolder, 400;
+  font-size: 15px;
+}
+
+.card {
+  height: 28rem;
+  width: 18rem;
+  background: var(--White);
+  border-radius: 1rem;
+  padding: 0.8rem;
+  margin: 20px auto;
+}
+
+.card img {
+  display: block;
+  width: 100%;
+  height: 17rem;
+  border-radius: 1rem;
+}
+.card_body {
+  line-height: 1.3;
+  text-align: center;
+  min-width: 15rem;
+}
+.card_body h2 {
+  font-weight: 700;
+}
+.card_body p {
+  color: var(--Light-gray)
+}
+
+/* Media Queries */
+
+@media (min-width: 375px) and (max-width: 1440px) {
+  html {
+    font-size: 110%;
+  }
+}
