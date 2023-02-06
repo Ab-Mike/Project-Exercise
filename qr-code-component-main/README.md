@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./design/Screenshot%202023-02-06%20at%2016-02-06%20Frontend%20Mentor%20QR%20code%20component.png)
 
 ### Links
 
@@ -42,6 +42,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Godwin Michael](https://www.your-site.com)
 - Frontend Mentor - [Michael](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@Godwinz_Zealot](https://www.twitter.com/yourusername)
